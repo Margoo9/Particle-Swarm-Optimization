@@ -1,3 +1,3 @@
 # Particle-Swarm-Optimization
 
-Particle swarm algoritm implemented in CUDA.
+Particle swarm algorithm implemented in CUDA.
