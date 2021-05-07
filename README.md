@@ -1,3 +1,3 @@
 # Particle-Swarm-Optimization
 
-Particle swarm algorithm implemented in CUDA.
+Particle swarm optimization algorithm implemented in CUDA. Program has 3 different benchmark functions: Beale, Easome and Rosenbrock.
